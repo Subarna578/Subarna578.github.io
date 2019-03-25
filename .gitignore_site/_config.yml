@@ -1,4 +1,4 @@
 name: Subarna Lamsal, Data Science Enthusiast
 markdown: kramdown
-permalink: /blog/:2019/:03/:25/:Subarna Lamsal's Blog
+permalink: /blog/:year/:month/:day/:title
 
